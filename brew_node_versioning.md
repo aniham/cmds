@@ -6,12 +6,11 @@ list available node versions
 brew search node
 ```
 
-install specific version
+install specific version (less granular than nvm, installs latest stable minor version)
 
 ```
 brew install node@10
 ```
-* less granular than nvm, installs latest stable minor version
 
 use specific version
 
